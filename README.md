@@ -6,6 +6,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=StevenChaoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-### My Paper
+### Publication
 
 AIMS 2020 - [*A Neural Framework for Chinese Medical Named Entity Recognition*](https://link.springer.com/chapter/10.1007/978-3-030-59605-7_6)
