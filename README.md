@@ -2,7 +2,7 @@
 
 - A VIMer.
 - Major in Cyberspace Security, [University of International Relations](https://www.uir.cn), currently pursing my master's degree.
-- Working on Natural Language Processing / Information Extraction / Biomedical Entity Normalization.
+- Working on Natural Language Processing / Information Extraction / Biomedical NLP.
 - This tutorial strengthens my confidence and gives me a direction to do my research [[Tutorial by Mark Dredze]](how_to_be_a_successful_phd_student.pdf).
 
 ![](https://github-readme-stats.vercel.app/api?username=StevenChaoo&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
